@@ -22,13 +22,22 @@ public class week5 {
 				
 				else {
 					eng.add(s.charAt(i));
-			
+					
 				}
 				
 				
 			}
 			System.out.println(kor);
 			System.out.println();
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
+			System.out.println("깃허브에 올려보기 다시 commit 만 ㅋㅋ");
 			
 		
 	}
